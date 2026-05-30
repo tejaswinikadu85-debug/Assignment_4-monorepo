@@ -10,9 +10,9 @@ This monorepo contains three projects:
 
 ## Project Pages
 
-- Butusic:[ https://tejaswinikadu85-debug.github.io/ArtWork](https://tejaswinikadu85-debug.github.io/Butusic/)
-- CUBO: [https://tejaswinikadu85-debug.github.io/SquidGame](https://tejaswinikadu85-debug.github.io/CUBO/)
-- Portfolio: [https://tejaswinikadu85-debug.github.io/DigitalHunters](https://tejaswinikadu85-debug.github.io/Portfolio/)
+- Butusic:[ https://tejaswinikadu85-debug.github.io/Butusic](https://tejaswinikadu85-debug.github.io/Butusic/)
+- CUBO: [https://tejaswinikadu85-debug.github.io/CUBO](https://tejaswinikadu85-debug.github.io/CUBO/)
+- Portfolio: [https://tejaswinikadu85-debug.github.io/Portfolio](https://tejaswinikadu85-debug.github.io/Portfolio/)
 
 ## Setup
 
